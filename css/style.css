@@ -767,7 +767,7 @@ footer .b-nav__item a:hover {
     
     section.b-main .b-container {
         flex-direction: column-reverse;
-        margin-left: 0;
+        margin: auto;
         padding: 0 10px;
         max-width: none;
         width: 100%;
